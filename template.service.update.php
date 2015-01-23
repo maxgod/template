@@ -1,8 +1,7 @@
 <?php
 /*
  *
- * 升级版本
- * 使用词法解析器进行处理 token_get_all
+ * php模板语言替换
  *
  */
 namespace SERVICE;
